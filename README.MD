@@ -14,4 +14,4 @@ ASCII ART OUTPUT is a program that allows users to generate ASCII ART from text 
 1. Clone the Repo
 2. Navigate to the project directory
 3. Run `go run main.go --output=fileName text bannerStyle`
-4. Example "go run main.go --output=file.txt Ali standard"
+4. Example "go run main.go --output=test.txt Ali standard"
